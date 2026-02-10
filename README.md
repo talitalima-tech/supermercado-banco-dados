@@ -38,7 +38,7 @@ trabalho_banco_de_dados/
 ├── lib/
 │   └── mysql-connector-j-9.5.0.jar
 │
-├── integrantes.txt
+├
 └── README.md
 
 ```
